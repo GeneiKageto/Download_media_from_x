@@ -1,3 +1,4 @@
 /outputs/
 src/cookies.json
 src/__pycache__/
+login_config.json
